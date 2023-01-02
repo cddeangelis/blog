@@ -1,9 +1,9 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "Hello"
+author: "Christian DeAngelis"
 date: "2022-12-31"
 categories: [news, code, analysis]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
+This space is for future blog posts. stay tuned
